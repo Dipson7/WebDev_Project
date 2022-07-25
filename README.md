@@ -1,3 +1,5 @@
+![frontend1](https://user-images.githubusercontent.com/82470332/180837036-83ca59d2-ec89-4418-b481-02bed0a645ea.PNG)
+
 # SiUUUStore
 
 SiUUUStore is an e-commerce project based on Django, that intends to create a platform for the users to purchase football related products.
