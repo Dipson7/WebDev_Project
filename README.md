@@ -21,12 +21,20 @@ SiUUUStore is an e-commerce project based on Django, that intends to create a pl
 
 ## Screenshots
 
+### Last added products in homepage
 ![frontend2](https://user-images.githubusercontent.com/82470332/180837399-53bf93d7-58ff-40ab-9901-465e651cfd62.PNG)
 
+### Search for your desired products
 ![frontend4](https://user-images.githubusercontent.com/82470332/180837453-45be628c-3208-463d-949c-eeac3afac846.PNG)
 
+### Searched items
 ![frontend5](https://user-images.githubusercontent.com/82470332/180837485-44e7037f-765c-484a-a0a2-4c26c0418fd8.PNG)
 
+![frontend6](https://user-images.githubusercontent.com/82470332/180837750-538b5254-88f0-44a0-baba-8795092a92a2.PNG)
+
+![frontend7](https://user-images.githubusercontent.com/82470332/180837770-b1b492a0-1cd4-4696-a834-c34d4c9079ac.PNG)
+
+![frontend9](https://user-images.githubusercontent.com/82470332/180837790-fb71f9d1-7840-4743-8a4b-2edf51bd38b5.PNG)
 
 
 
