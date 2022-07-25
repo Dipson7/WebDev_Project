@@ -46,6 +46,9 @@ SiUUUStore is an e-commerce project based on Django, that intends to create a pl
 ![frontend8](https://user-images.githubusercontent.com/82470332/180838184-34027209-8a68-4da2-a69b-ca10d56e3b27.PNG)
 
 
+##### Video Demo of this project: https://youtu.be/lz0S_TnWvw4
+
+
 ### Hope you liked my project, Thank You
 
 
